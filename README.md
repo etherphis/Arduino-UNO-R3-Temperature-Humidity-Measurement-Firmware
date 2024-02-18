@@ -3,7 +3,7 @@
 
 This Arduino firmware is designed to measure temperature and humidity using a DHT sensor and display the readings on an LCD screen. The project includes a modular structure with a class for handling temperature and humidity measurements.
 
-[Img](docs/preview.jpg)
+![preview img](docs/preview.jpg)
 
 ## Table of Contents
 
