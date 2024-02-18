@@ -3,12 +3,15 @@
 
 This Arduino firmware is designed to measure temperature and humidity using a DHT sensor and display the readings on an LCD screen. The project includes a modular structure with a class for handling temperature and humidity measurements.
 
+[Img](docs/preview.jpg)
+
 ## Table of Contents
 
 - [Arduino UNO R3 Firmware](#arduino-uno-r3-firmware)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Components](#components)
+  - [Circuit](#circuit)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -23,6 +26,10 @@ The TAndHMeasurement Arduino Firmware provides a simple and modular solution for
 - DHT sensor (Type 11 recommended)
 - 16x2 LCD screen
 - Jumper wires
+
+## Circuit
+
+Visit https://www.circuito.io/app?components=512,10167,11021,341099 to see how the components are connected!
 
 ## Installation
 
